@@ -29,9 +29,11 @@ The Medicine Kiosk Project is a software solution designed to enhance and simpli
 - Follow the installation instructions provided in the README file.
 ### Configuration
 - Set up kiosk settings, including database connection details and user authentication parameters.
-### Running the Application
+- 
+## Running the Application
 - Install dependencies listed in the requirements.txt file.
 - Start the application by running the app.py file.
 - Access the application using the provided URL or local address.
+  
 
-This solution streamlines medication management, combining security, efficiency, and accessibility into a single platform.
+### This solution streamlines medication management, combining security, efficiency, and accessibility into a single platform.
